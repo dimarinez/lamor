@@ -11,6 +11,12 @@ export const metadata: Metadata = {
       "A modern matchmaking experience designed for real, intentional connection.",
     type: "website",
   },
+  twitter: {
+    card: "summary_large_image",
+    title: "Lamor | Less swiping, more meeting",
+    description:
+      "A modern matchmaking experience designed for real, intentional connection.",
+  },
 };
 
 export default function RootLayout({
